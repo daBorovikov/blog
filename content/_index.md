@@ -16,16 +16,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Ловец бабочек
+          description: 77%
+          icon: heart-pulse
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: рыбок охотник и прочее
+          description: 7%
+          icon: fish
+          icon_pack: fas
+        - name: тиктокер
+          description: 0%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -40,27 +40,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Энергия мать его
+          company: Чебоксарская ГЭС
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Чебоксары
+          date_start: '2022-02-03'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Обязанности включают в себя:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * копать
+              * 15 минут перекур
+              * копать
+        - title: По вечерам профессор в баре на заливе
+          company: Разливуха чебоксары
           company_url: ''
           company_logo: org-x
-          location: California
+          location: родные шупашкары
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Чем больше выпьешь, тем более высокомерным становишься. Берегите свое лицо
     design:
       columns: '2'
   - block: accomplishments
@@ -69,36 +69,20 @@ sections:
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: Mar 2004
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.avito.ru/sankt-peterburg/predlozheniya_uslug/attestat_professii_diplom_2938935109
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Чувашский хлебзавод
+          organization_url: https://hz1.su/
+          title: Образование профессиональное супер пупер крутое вообще достиг достижения
           url: ''
     design:
       columns: '2'
